@@ -1,9 +1,4 @@
 # 👋 Salaam, I'm Muhammad Talha
-
-## 🧠💻 AI Alchemist & Robotics Whisperer
-
-I'm a Computer Engineer passionate about turning silicon dreams into intelligent reality. My mission is to craft the future with code, circuits, and an insatiable curiosity.
-
 ### 🚀 What I Do
 
 - **Artificial Intelligence**: Developing cutting-edge AI/ML solutions that push the boundaries of what's possible.
