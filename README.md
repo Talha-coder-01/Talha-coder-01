@@ -1,8 +1,8 @@
 # 👋 Salaam, I'm Muhammad Talha
 ### 🚀 What I Do
 
-- **Artificial Intelligence**: Developing cutting-edge AI/ML solutions that push the boundaries of what's possible.
-- **Robotics**: Building and programming robots that can interact intelligently with their environment.
+- **Artificial Intelligence**: Developing cutting-edge AI/ML solutions that push the possible boundaries.
+- **Robotics**: Building and programming robots that interact intelligently with their environment.
 - **Embedded Systems**: Creating efficient and powerful systems for the IoT era.
   
 ### 🛠️ Tech Stack
@@ -12,14 +12,9 @@
 - Robotics: ROS (Robot Operating System)
 - Embedded: Arduino, Raspberry Pi
 - Other: Git, Linux
-
-### 📚 Education
-
-- B.S. in Computer Engineering, Institute of Space Technology, 2023
-
-### 🏆 Achievements
-
-- Recipient of prestigious gold medal🏅 in BS for best FYP
+## Certifications
+  1. [Introduction to Tensorflow and Keras](https://www.mygreatlearning.com/academy/courses/11760152/31734)
+  2. [Python for Data Science, AI & Development](https://coursera.org/share/1a2de8fac736fb8ca666ae6a342919a5)
 
 ### 📫 Let's Connect
 
