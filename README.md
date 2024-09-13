@@ -4,13 +4,7 @@
 - **Artificial Intelligence**: Developing cutting-edge AI/ML solutions that push the boundaries of what's possible.
 - **Robotics**: Building and programming robots that can interact intelligently with their environment.
 - **Embedded Systems**: Creating efficient and powerful systems for the IoT era.
-
-### 💡 Current Interests
-
-- Exploring the intersection of AI and robotics
-- Optimizing machine learning models for embedded platforms
-- Contributing to open-source projects in AI and robotics
-
+  
 ### 🛠️ Tech Stack
 
 - Languages: Python, C/C++
@@ -18,7 +12,6 @@
 - Robotics: ROS (Robot Operating System)
 - Embedded: Arduino, Raspberry Pi
 - Other: Git, Linux
-
 
 ### 📚 Education
 
@@ -31,5 +24,6 @@
 ### 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/%20muhammad-t-474554213
+- ✉️   You can email me at talhasatti345@gmail.com
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on exciting projects!
