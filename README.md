@@ -17,7 +17,7 @@
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079546f7263682d3035313232413f267374796c653d666c6174266c6f676f3d7079746f726368](https://user-images.githubusercontent.com/77435711/179205835-cdf6f33a-25f8-4b8d-b4bb-ca70ce1842fa.svg)
 
 ## Certifications
-  1. [Introduction to Tensorflow and Keras](https://www.mygreatlearning.com/academy/courses/11760152/31734)
+  1. [Introduction to Tensorflow and Keras](https://olympus.mygreatlearning.com/courses/31734/certificate)
   2. [Python for Data Science, AI & Development](https://coursera.org/share/1a2de8fac736fb8ca666ae6a342919a5)
 
 ### 📫 Let's Connect
