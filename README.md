@@ -24,7 +24,7 @@
 
 ### 📫 Let's Connect
 
-- LinkedIn: www.linkedin.com/in/muhammad-talha-82242a330/
+- LinkedIn: https://www.linkedin.com/in/muhammad-t-474554213/
 - ✉️   You can email me at talhasatti345@gmail.com
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on exciting projects!
